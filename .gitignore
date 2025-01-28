@@ -1,0 +1,5 @@
+echo ".vscode/
+venv/
+*.yaml
+images/
+yolov7/" > .gitignore
