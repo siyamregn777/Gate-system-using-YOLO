@@ -3,3 +3,8 @@ venv/
 *.yaml
 images/
 yolov7/" > .gitignore
+*.ipynb linguist-detectable=false
+*.filetype linguist-documentation
+*.js linguist-documentation
+*.md linguist-documentation
+*.json linguist-documentation
